@@ -1,2 +1,2 @@
 # hello-world
-My fist edited repository
+My fist edited repository in GitHub
